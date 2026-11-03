@@ -2,6 +2,7 @@ wein
 mozartbrezn
 mozartkugeln
 bier
+kebap
 karotten
 aepfel
 birnen
